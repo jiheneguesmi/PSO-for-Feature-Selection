@@ -30,6 +30,7 @@ In this notebook, I have implemented the PSO algorithm and focused on the follow
 - **Computational Efficiency:** I optimized the code for faster execution by using efficient data structures and algorithms.
 
 These efforts have resulted in a more robust and efficient PSO implementation that achieves better results in a shorter amount of time:
+
 **from accuracy=0.65 to accuracy=0.9 **
 
 ## Advantages of PSO
